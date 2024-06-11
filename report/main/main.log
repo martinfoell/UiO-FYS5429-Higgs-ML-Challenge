@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.17)  12 JUN 2024 00:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.17)  12 JUN 2024 01:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1049,7 +1049,7 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 
 (../sections/introduction/introduction.tex) (../sections/theory/theory.tex
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../sections/theory//../../figures/neuron.png, id=166, 731.73375pt x 710.655pt>
+<../sections/theory//../../figures/neuron.png, id=167, 731.73375pt x 710.655pt>
 
 File: ../sections/theory//../../figures/neuron.png Graphic file (type png)
 <use ../sections/theory//../../figures/neuron.png>
@@ -1070,7 +1070,7 @@ Overfull \hbox (21.42296pt too wide) detected at line 203
  []
 
 ) (../sections/method/method.tex [4]
-<../sections/method//../../figures/ATLAS-reference-frame.png, id=258, 1544.7712
+<../sections/method//../../figures/ATLAS-reference-frame.png, id=260, 1544.7712
 6pt x 809.0225pt>
 File: ../sections/method//../../figures/ATLAS-reference-frame.png Graphic file 
 (type png)
@@ -1084,7 +1084,7 @@ s/results/results.tex [6]
 LaTeX Warning: Reference `fig:fillmean_bkgsig' on page 7 undefined on input lin
 e 38.
 
-<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/accuracy.pdf, id=301
+<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/accuracy.pdf, id=303
 , 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/accuracy.pdf Gr
 aphic file (type pdf)
@@ -1092,7 +1092,7 @@ aphic file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0
 001/accuracy.pdf  used on input line 48.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf, id=302, 46
+<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf, id=304, 46
 2.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf Graphi
 c file (type pdf)
@@ -1100,7 +1100,7 @@ c file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0
 001/loss.pdf  used on input line 55.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf, id=303, 462
+<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf, id=305, 462
 .52798pt x 346.89601pt>
 File: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf Graphic
  file (type pdf)
@@ -1123,7 +1123,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 46--65
  [] 
  []
 
-<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pdf, id=304,
+<../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pdf, id=306,
  462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pdf Gra
 phic file (type pdf)
@@ -1132,7 +1132,7 @@ Package pdftex.def Info: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0
 001/bkg_sig.pdf  used on input line 73.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 <../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/likelihood.pdf, id=3
-05, 462.52798pt x 346.89601pt>
+07, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/likelihood.pdf 
 Graphic file (type pdf)
 <use ../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/likelihood.pdf>
@@ -1152,7 +1152,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 71--85
 [7 <../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/accuracy.pdf> <..
 /../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf> <../../plots/
 pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf>]
-<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/accuracy.pdf, id=415,
+<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/accuracy.pdf, id=417,
  462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/accuracy.pdf Gra
 phic file (type pdf)
@@ -1160,7 +1160,7 @@ phic file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-
 06/accuracy.pdf  used on input line 103.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/loss.pdf, id=416, 462
+<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/loss.pdf, id=418, 462
 .52798pt x 346.89601pt>
 File: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/loss.pdf Graphic
  file (type pdf)
@@ -1168,7 +1168,7 @@ File: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/loss.pdf Graphic
 Package pdftex.def Info: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-
 06/loss.pdf  used on input line 110.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/roc.pdf, id=417, 462.
+<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/roc.pdf, id=419, 462.
 52798pt x 346.89601pt>
 File: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/roc.pdf Graphic 
 file (type pdf)
@@ -1193,7 +1193,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 101--120
 
 [8 <../../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pdf> <../
 ../plots/pdf/FillMean6/0.915_0.607_500_1000_1.0_0.0001/likelihood.pdf>]
-<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/bkg_sig.pdf, id=512, 
+<../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/bkg_sig.pdf, id=514, 
 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/bkg_sig.pdf Grap
 hic file (type pdf)
@@ -1202,7 +1202,7 @@ Package pdftex.def Info: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-
 06/bkg_sig.pdf  used on input line 128.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 <../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/likelihood.pdf, id=51
-3, 462.52798pt x 346.89601pt>
+5, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/likelihood.pdf G
 raphic file (type pdf)
 <use ../../plots/pdf/FillZero6/0.913_0.647_500_1000_1.0_1e-06/likelihood.pdf>
@@ -1225,7 +1225,7 @@ f/FillZero6/0.913_0.647_500_1000_1.0_1e-06/roc.pdf> <../../plots/pdf/FillZero6/
 0.913_0.647_500_1000_1.0_1e-06/bkg_sig.pdf> <../../plots/pdf/FillZero6/0.913_0.
 647_500_1000_1.0_1e-06/likelihood.pdf>]
 <../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/accuracy.pdf, i
-d=700, 462.52798pt x 346.89601pt>
+d=702, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/accuracy.p
 df Graphic file (type pdf)
 <use ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/accuracy.pd
@@ -1234,14 +1234,14 @@ Package pdftex.def Info: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.
 0_0.0001/accuracy.pdf  used on input line 153.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 <../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf, id=70
-1, 462.52798pt x 346.89601pt>
+3, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf G
 raphic file (type pdf)
 <use ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf>
 Package pdftex.def Info: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.
 0_0.0001/loss.pdf  used on input line 160.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf, id=702
+<../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf, id=704
 , 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf Gr
 aphic file (type pdf)
@@ -1265,7 +1265,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 151--170
  []
 
 <../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pdf, id
-=703, 462.52798pt x 346.89601pt>
+=705, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pd
 f Graphic file (type pdf)
 <use ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pdf
@@ -1274,7 +1274,7 @@ Package pdftex.def Info: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.
 0_0.0001/bkg_sig.pdf  used on input line 178.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 <../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/likelihood.pdf,
- id=704, 462.52798pt x 346.89601pt>
+ id=706, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/likelihood
 .pdf Graphic file (type pdf)
 <use ../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/likelihood.
@@ -1296,14 +1296,14 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 176--189
 f> <../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/loss.pdf> <.
 ./../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/roc.pdf>]
 <../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/accuracy.pdf, id=80
-3, 462.52798pt x 346.89601pt>
+5, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/accuracy.pdf G
 raphic file (type pdf)
 <use ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/accuracy.pdf>
 Package pdftex.def Info: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.
 0001/accuracy.pdf  used on input line 206.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/loss.pdf, id=804, 4
+<../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/loss.pdf, id=806, 4
 62.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/loss.pdf Graph
 ic file (type pdf)
@@ -1311,7 +1311,7 @@ ic file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.
 0001/loss.pdf  used on input line 213.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/roc.pdf, id=805, 46
+<../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/roc.pdf, id=807, 46
 2.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/roc.pdf Graphi
 c file (type pdf)
@@ -1337,7 +1337,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 204--223
 [11 <../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/bkg_sig.pdf
 > <../../plots/pdf/FillPhiRandom6/0.915_0.607_500_1000_1.0_0.0001/likelihood.pd
 f>]
-<../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/bkg_sig.pdf, id=899
+<../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/bkg_sig.pdf, id=901
 , 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/bkg_sig.pdf Gr
 aphic file (type pdf)
@@ -1346,7 +1346,7 @@ Package pdftex.def Info: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.
 0001/bkg_sig.pdf  used on input line 231.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 <../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/likelihood.pdf, id=
-900, 462.52798pt x 346.89601pt>
+902, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/likelihood.pdf
  Graphic file (type pdf)
 <use ../../plots/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/likelihood.pdf>
@@ -1370,14 +1370,14 @@ ts/pdf/RemovePhi6/0.915_0.567_500_1000_1.0_0.0001/roc.pdf> <../../plots/pdf/Rem
 ovePhi6/0.915_0.567_500_1000_1.0_0.0001/bkg_sig.pdf> <../../plots/pdf/RemovePhi
 6/0.915_0.567_500_1000_1.0_0.0001/likelihood.pdf>]
 <../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/accuracy.pdf, id=10
-89, 462.52798pt x 346.89601pt>
+91, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/accuracy.pdf G
 raphic file (type pdf)
 <use ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/accuracy.pdf>
 Package pdftex.def Info: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1
 e-05/accuracy.pdf  used on input line 255.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/loss.pdf, id=1090, 
+<../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/loss.pdf, id=1092, 
 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/loss.pdf Graph
 ic file (type pdf)
@@ -1385,7 +1385,7 @@ ic file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1
 e-05/loss.pdf  used on input line 262.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/roc.pdf, id=1091, 4
+<../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/roc.pdf, id=1093, 4
 62.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/roc.pdf Graphi
 c file (type pdf)
@@ -1409,7 +1409,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 253--272
  []
 
 <../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/bkg_sig.pdf, id=109
-2, 462.52798pt x 346.89601pt>
+4, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/bkg_sig.pdf Gr
 aphic file (type pdf)
 <use ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/bkg_sig.pdf>
@@ -1417,7 +1417,7 @@ Package pdftex.def Info: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1
 e-05/bkg_sig.pdf  used on input line 280.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 <../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/likelihood.pdf, id=
-1093, 462.52798pt x 346.89601pt>
+1095, 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/likelihood.pdf
  Graphic file (type pdf)
 <use ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/likelihood.pdf>
@@ -1438,7 +1438,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 278--291
 [13 <../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/accuracy.pdf> <
 ../../plots/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/loss.pdf> <../../plo
 ts/pdf/RemoveJets6/0.908_0.526_500_1000_1.0_1e-05/roc.pdf>]
-<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/accuracy.pdf, id=1185, 4
+<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/accuracy.pdf, id=1187, 4
 62.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/accuracy.pdf Graphi
 c file (type pdf)
@@ -1446,7 +1446,7 @@ c file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/
 accuracy.pdf  used on input line 303.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/loss.pdf, id=1186, 462.5
+<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/loss.pdf, id=1188, 462.5
 2798pt x 346.89601pt>
 File: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/loss.pdf Graphic fi
 le (type pdf)
@@ -1454,7 +1454,7 @@ le (type pdf)
 Package pdftex.def Info: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/
 loss.pdf  used on input line 310.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/roc.pdf, id=1187, 462.52
+<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/roc.pdf, id=1189, 462.52
 798pt x 346.89601pt>
 File: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/roc.pdf Graphic fil
 e (type pdf)
@@ -1477,7 +1477,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 301--320
  [] 
  []
 
-<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/bkg_sig.pdf, id=1188, 46
+<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/bkg_sig.pdf, id=1190, 46
 2.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/bkg_sig.pdf Graphic
  file (type pdf)
@@ -1485,7 +1485,7 @@ File: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/bkg_sig.pdf Graphic
 Package pdftex.def Info: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/
 bkg_sig.pdf  used on input line 328.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/likelihood.pdf, id=1189,
+<../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/likelihood.pdf, id=1191,
  462.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/likelihood.pdf Grap
 hic file (type pdf)
@@ -1508,7 +1508,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 326--339
 ./plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/accuracy.pdf> <../../plots/pd
 f/Jets06/0.902_0.405_500_1000_1.0_1e-05/loss.pdf> <../../plots/pdf/Jets06/0.902
 _0.405_500_1000_1.0_1e-05/roc.pdf>]
-<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/accuracy.pdf, id=1368, 
+<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/accuracy.pdf, id=1370, 
 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/accuracy.pdf Graph
 ic file (type pdf)
@@ -1516,7 +1516,7 @@ ic file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001
 /accuracy.pdf  used on input line 351.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/loss.pdf, id=1369, 462.
+<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/loss.pdf, id=1371, 462.
 52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/loss.pdf Graphic f
 ile (type pdf)
@@ -1524,7 +1524,7 @@ ile (type pdf)
 Package pdftex.def Info: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001
 /loss.pdf  used on input line 358.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/roc.pdf, id=1370, 462.5
+<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/roc.pdf, id=1372, 462.5
 2798pt x 346.89601pt>
 File: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/roc.pdf Graphic fi
 le (type pdf)
@@ -1547,7 +1547,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 349--368
  [] 
  []
 
-<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/bkg_sig.pdf, id=1371, 4
+<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/bkg_sig.pdf, id=1373, 4
 62.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/bkg_sig.pdf Graphi
 c file (type pdf)
@@ -1555,7 +1555,7 @@ c file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001
 /bkg_sig.pdf  used on input line 376.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/likelihood.pdf, id=1372
+<../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/likelihood.pdf, id=1374
 , 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets16/0.895_0.647_500_1000_1.0_0.0001/likelihood.pdf Gra
 phic file (type pdf)
@@ -1578,7 +1578,7 @@ plots/pdf/Jets06/0.902_0.405_500_1000_1.0_1e-05/likelihood.pdf> <../../plots/pd
 f/Jets16/0.895_0.647_500_1000_1.0_0.0001/accuracy.pdf> <../../plots/pdf/Jets16/
 0.895_0.647_500_1000_1.0_0.0001/loss.pdf> <../../plots/pdf/Jets16/0.895_0.647_5
 00_1000_1.0_0.0001/roc.pdf>]
-<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/accuracy.pdf, id=1559, 46
+<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/accuracy.pdf, id=1561, 46
 2.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/accuracy.pdf Graphic
  file (type pdf)
@@ -1586,7 +1586,7 @@ File: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/accuracy.pdf Graphic
 Package pdftex.def Info: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/a
 ccuracy.pdf  used on input line 399.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/loss.pdf, id=1560, 462.52
+<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/loss.pdf, id=1562, 462.52
 798pt x 346.89601pt>
 File: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/loss.pdf Graphic fil
 e (type pdf)
@@ -1594,7 +1594,7 @@ e (type pdf)
 Package pdftex.def Info: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/l
 oss.pdf  used on input line 406.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/roc.pdf, id=1561, 462.527
+<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/roc.pdf, id=1563, 462.527
 98pt x 346.89601pt>
 File: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/roc.pdf Graphic file
  (type pdf)
@@ -1617,7 +1617,7 @@ Overfull \hbox (9.0pt too wide) in paragraph at lines 397--416
  [] 
  []
 
-<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/bkg_sig.pdf, id=1562, 462
+<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/bkg_sig.pdf, id=1564, 462
 .52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/bkg_sig.pdf Graphic 
 file (type pdf)
@@ -1625,7 +1625,7 @@ file (type pdf)
 Package pdftex.def Info: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/b
 kg_sig.pdf  used on input line 424.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/likelihood.pdf, id=1563, 
+<../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/likelihood.pdf, id=1565, 
 462.52798pt x 346.89601pt>
 File: ../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/likelihood.pdf Graph
 ic file (type pdf)
@@ -1650,28 +1650,28 @@ pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/accuracy.pdf> <../../plots/pdf/Jets26/
 1000_1.0_1e-05/roc.pdf>] [17 <../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e
 -05/bkg_sig.pdf> <../../plots/pdf/Jets26/0.932_0.97_500_1000_1.0_1e-05/likeliho
 od.pdf>]
-<../../plots/PRI_tau_phi.pdf, id=1845, 462.52798pt x 346.89601pt>
+<../../plots/PRI_tau_phi.pdf, id=1847, 462.52798pt x 346.89601pt>
 File: ../../plots/PRI_tau_phi.pdf Graphic file (type pdf)
 <use ../../plots/PRI_tau_phi.pdf>
 Package pdftex.def Info: ../../plots/PRI_tau_phi.pdf  used on input line 534.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/PRI_lep_phi.pdf, id=1846, 462.52798pt x 346.89601pt>
+<../../plots/PRI_lep_phi.pdf, id=1848, 462.52798pt x 346.89601pt>
 File: ../../plots/PRI_lep_phi.pdf Graphic file (type pdf)
 <use ../../plots/PRI_lep_phi.pdf>
 Package pdftex.def Info: ../../plots/PRI_lep_phi.pdf  used on input line 540.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/PRI_met_phi.pdf, id=1847, 462.52798pt x 346.89601pt>
+<../../plots/PRI_met_phi.pdf, id=1849, 462.52798pt x 346.89601pt>
 File: ../../plots/PRI_met_phi.pdf Graphic file (type pdf)
 <use ../../plots/PRI_met_phi.pdf>
 Package pdftex.def Info: ../../plots/PRI_met_phi.pdf  used on input line 546.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/PRI_jet_leading_phi.pdf, id=1848, 462.52798pt x 346.89601pt>
+<../../plots/PRI_jet_leading_phi.pdf, id=1850, 462.52798pt x 346.89601pt>
 File: ../../plots/PRI_jet_leading_phi.pdf Graphic file (type pdf)
 <use ../../plots/PRI_jet_leading_phi.pdf>
 Package pdftex.def Info: ../../plots/PRI_jet_leading_phi.pdf  used on input lin
 e 552.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
-<../../plots/PRI_jet_subleading_phi.pdf, id=1849, 462.52798pt x 346.89601pt>
+<../../plots/PRI_jet_subleading_phi.pdf, id=1851, 462.52798pt x 346.89601pt>
 File: ../../plots/PRI_jet_subleading_phi.pdf Graphic file (type pdf)
 <use ../../plots/PRI_jet_subleading_phi.pdf>
 Package pdftex.def Info: ../../plots/PRI_jet_subleading_phi.pdf  used on input 
@@ -1706,11 +1706,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9CABEE5BDA7CD79EFEAABCAAAC85491C;4933.
  ) 
 Here is how much of TeX's memory you used:
- 27379 strings out of 480129
- 509922 string characters out of 5893409
+ 27380 strings out of 480129
+ 509932 string characters out of 5893409
  767647 words of memory out of 5000000
  44648 multiletter control sequences out of 15000+600000
- 487907 words of font info for 96 fonts, out of 8000000 for 9000
+ 488075 words of font info for 97 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
  84i,15n,89p,1686b,715s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
@@ -1738,12 +1738,13 @@ m/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (19 pages, 1178868 bytes).
+exmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (19 pages, 1187209 bytes).
 PDF statistics:
- 2205 PDF objects out of 2487 (max. 8388607)
- 786 compressed objects within 8 object streams
+ 2211 PDF objects out of 2487 (max. 8388607)
+ 790 compressed objects within 8 object streams
  111 named destinations out of 1000 (max. 500000)
  472 words of extra memory for PDF output out of 10000 (max. 10000000)
 
