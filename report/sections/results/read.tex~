@@ -1,0 +1,13 @@
+\documentclass{article}
+\usepackage{readarray}
+
+\begin{document}
+
+\readdef{filecontent}{example.txt}
+\readarray{filecontent}
+
+\foreachitem{\line}{\filecontent}{%
+    \line\\
+}
+
+\end{document}

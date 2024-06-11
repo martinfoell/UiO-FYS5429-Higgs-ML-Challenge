@@ -1,0 +1,31 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {section}{\numberline {I}Results}{1}{section*.1}\protected@file@percent }
+\newlabel{sec:results}{{I}{1}{}{section*.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Table of AI/ML with indication on the main type of learning (S: supervised, U: unsupervised, Semi-S: semi-supervised). \relax }}{1}{table.caption.2}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{tab:acronyms}{{I}{1}{Table of AI/ML with indication on the main type of learning (S: supervised, U: unsupervised, Semi-S: semi-supervised). \relax }{table.caption.2}{}}
+\bibdata{resultsNotes}
+\bibstyle{apsrmp4-1}
+\citation{REVTEX41Control}
+\citation{\newlabel{fig:FillMean_acc}{{1a}{2}{\captionAcc \relax }{figure.caption.3}{}}
+\newlabel{sub@fig:FillMean_acc}{{a}{2}{\captionAcc \relax }{figure.caption.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces The accuracy (a), loss (b) and the ROC curve (c) of the neural network output from the \emph  {FillMean} dataset.\relax }}{2}{figure.caption.3}\protected@file@percent }
+\newlabel{LastPage}{{}{2}{}{}{}}
+\gdef \@abspage@last{2}

@@ -1,0 +1,86 @@
+import re
+import glob
+import numpy as np
+import sys
+
+import os
+import time 
+
+import subprocess
+
+file_path = "../scripts/plotting.py"
+
+number = "6"
+# names = ["FillMean", "FillZero", "FillPhiRandom", "RemoveJets", "FillStandarize", "RemovePhi", "Jets0", "Jets1", "Jets2", "Jets0removePhi", "Jets1removePhi", "Jets2removePhi"]
+
+names = ["FillMean", "FillZero", "FillPhiRandom", "RemoveJets", "RemovePhi", "Jets0", "Jets1", "Jets2"]
+
+
+# models = glob.glob("../plots/raw/Jets2removePhi6*.npz")
+
+models = []
+
+for name in names:
+    models += glob.glob("../plots/raw/" + name + number + "*.npz")
+
+# remove = ['../plots/raw/', '.npz']
+
+for model in models:
+    timestamp = model.split("_")[-1].split('.')[0]
+    print(timestamp)
+    start = time.time()
+    command = f"python3 {file_path} " + timestamp + " 0 "
+    subprocess.run(command, shell=True)        
+    end = time.time()
+    print(f"Finished in {end-start} seconds")
+    print("")
+
+     
+    # x = np.load(model, mmap_mode='r')
+    # for k in x.files:
+    #     print(k)
+    # print("---------")
+
+sys.exit()    
+# eta = [0.01, 0.1, 1]
+# lamda = [0.001, 0.0001, 0.00001]
+
+# for l in lamda:
+#     start = time.time()
+#     command = f"python {file_path} " + timestamp
+#     subprocess.run(command, shell=True)        
+#     end = time.time()
+#     print(f"Finished in {end-start} seconds")
+#     print("")
+#     # time.sleep(300)
+
+# models = glob.glob("../plots/raw/*.npz")
+
+# remove = ['../plots/raw/', '.npz']
+
+4140332
+for model in models:
+    x = np.load(model, mmap_mode='r')
+    for k in x.files:
+        print(k)
+    print("---------")
+    # loaded_data = np.load(model)
+    
+# for model in models:
+#     modelname = model
+#     for i in remove:
+#         modelname = re.sub(i, '', modelname)
+#         print(modelname)
+        # loaded_data = np.load(modelpath)
+
+# sys.exit()
+# for model in models:
+#     print(model)
+#     x = np.load('mnist.npz', mmap_mode='r')
+#     for k in x.files:
+# ...     print(k)
+#     print(data.shape)
+#     print(data)
+#     print("")
+# print(models)
+

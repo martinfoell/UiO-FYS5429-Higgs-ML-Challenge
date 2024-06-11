@@ -1,0 +1,48 @@
+\documentclass[../../Main/main.tex]{subfiles}
+
+\begin{document}
+
+\section{Artificial Intelligence and Machine Learning for nuclear physics in broad strokes}
+
+
+ Statistics, data science, and AI/ML form important fields of research
+ in modern science. They describe how to learn and make predictions
+ from data, and enable the extraction of key information about
+ physical processes and the underlying scientific laws based on large
+ datasets. As such, recent advances in AI capabilities are being
+ applied to advance scientific discoveries in the physical sciences.
+
+
+
+
+Ideally, AI represents the science of building models to perform a
+task without being explicitly programmed. ML tasks fall under the
+broader AI umbrella. We will henceforth refer to the methods discussed
+as ``AI/ML''. The idea is that there exist generic algorithms which
+can be used to find patterns in a broad class of datasets without
+having to write code specifically for each problem. The algorithm
+builds its own logic based on the data. The attentive reader should
+however always keep in mind that machines and algorithms are to a
+large extent developed by humans. The choice of a specific AI/ML
+algorithm is governed by the insights and knowledge about a specific
+system.
+
+
+
+There exist many AI/ML approaches; they are often split into two main
+categories, supervised and unsupervised. In supervised learning, data
+are labeled and one lets a specific ML algorithm learn and deduce
+patterns in the datasets. This allows one to make predictions about
+future events and/or data not included in the training set.  On the
+other hand, unsupervised learning is a method for finding patterns and
+relationship in datasets without any prior knowledge of the
+system. Many researchers also operate with a third category, dubbed
+reinforcement learning. This is a paradigm of learning inspired by
+behavioral psychology, where actions are learned to maximize reward.
+One may encounter reinforcement learning being accompanied by
+supervised deep learning methods. Furthermore, what is often referred
+to as semi-supervised learning, entails developing algorithms that aim
+at learning from a dataset that includes both labeled and unlabeled
+data.
+
+\end{document}

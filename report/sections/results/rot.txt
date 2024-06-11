@@ -1,0 +1,412 @@
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillZero/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillZero/loss.pdf}
+%     \caption{Train (blue) and test (orange) loss.}    
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillZero/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \caption{The accuracy (a), loss (b) and the roc curve (c) of the neural network output from the \emph{FillZero} dataset.}  
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillZero/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillZero/likelihood.pdf}
+%     \caption{Train (blue) and test (orange) loss.}    
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removeJets/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removeJets/loss.pdf}
+%     \caption{Train (blue) and test (orange) loss.}    
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removeJets/roc.pdf}
+%     \caption{Train (blue) and test (orange) loss.}    
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \caption{The accuracy (a), loss (b) and the roc curve (c) of the neural network output from the \emph{JetsTwo} dataset.}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removePhi/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removePhi/loss.pdf}
+%     \caption{Train (blue) and test (orange) loss.}    
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removePhi/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \caption{The accuracy (a), loss (b) and the roc curve (c) of the neural network output from the \emph{JetsTwo} dataset.}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removePhi/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\removePhi/likelihood.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillPhiRandom/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillPhiRandom/loss.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillPhiRandom/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillPhiRandom/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillPhiRandom/likelihood.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsNone/loss.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsNone/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsNone/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsNone/likelihood.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/loss.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/likelihood.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/loss.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/likelihood.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsNone/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillMean/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillZero/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillPhiRandom/roc.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsNone/likelihood.pdf}
+%     \caption{Jets0}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/likelihood.pdf}
+%     \caption{Jets1}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsTwo/likelihood.pdf}
+%     \caption{Jets2}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillMean/likelihood.pdf}
+%     \caption{FillMean}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillZero/likelihood.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\fillPhiRandom/likelihood.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsZero/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsZero/loss.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsZero/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+
+% dd
+% \begin{figure}[H]
+%   \centering
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/accuracy.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \vspace{0.01cm}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/loss.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+%   \begin{subfigure}[t]{0.5\textwidth}
+%     \centering
+%     \includegraphics[width = 1\linewidth]{\JetsOne/bkg_sig.pdf}
+%     \caption{}
+%     \label{fig:task7-wo-barrier}
+%   \end{subfigure}
+% \end{figure}
+

@@ -1,0 +1,109 @@
+\documentclass[aps,rmp,reprint,amsmath,amssymb,graphicx,longbibliography]{revtex4-1}
+
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{wrapfig}
+\usepackage{array} 
+\usepackage{listings}
+\usepackage[para,online,flushleft]{threeparttablex}
+\usepackage{booktabs,dcolumn}
+\usepackage{color}
+
+\usepackage{ifthen}
+% \usepackage{bbding}
+\usepackage{diagbox}
+\usepackage{pifont}
+\usepackage{wasysym}
+\usepackage{amssymb} 
+
+\usepackage{bm}
+
+% \usepackage{multicol}
+
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{listofitems}
+
+\usepackage{tikz}
+
+\usepackage{enumitem}
+\usepackage{textpos}
+\usepackage{booktabs}
+\usepackage{multirow,bigdelim}
+\usepackage{float}
+
+\usepackage{upgreek} %upalpha in Saxena2021 Reference
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{hyperref}
+\hypersetup{breaklinks=true,colorlinks=true,linkcolor=blue,citecolor=blue,filecolor=magenta,urlcolor=blue}
+
+
+
+
+\usepackage{xcolor}
+%\newcommand{\contrib}[1]{\textcolor{red}{#1}}
+%\newcommand{\comment}[1]{\textcolor{blue}{#1}}
+
+%\newcommand{\WN}[1]{{\color{red} #1}}
+
+\makeatletter
+\def\@bibdataout@aps{%
+\immediate\write\@bibdataout{%
+@CONTROL{%
+apsrev41Control%
+\longbibliography@sw{%
+    ,author="08",editor="1",pages="1",title="0",year="1"%
+    }{%
+    ,author="08",editor="1",pages="1",title="",year="1"%
+    }%
+  }%
+}%
+\if@filesw \immediate \write \@auxout {\string \citation {apsrev41Control}}\fi
+}
+\makeatother
+
+\usepackage{subfiles}
+%\usepackage[left]{lineno}
+%\linenumbers
+
+
+\begin{document}
+%\pagenumbering{gobble} 
+
+\title{Higgs challange with likelihood ratio estimation}
+
+\author{Martin Føll}
+\affiliation{Department of Physics, University of Oslo, N-0316 Oslo, Norway}
+
+
+\begin{abstract}
+    Advances in artificial intelligence/machine learning methods provide tools that have broad applicability in scientific research.  These techniques are being applied across the diversity of nuclear physics research topics, leading to advances that will facilitate scientific discoveries and societal applications. 
+    This review provides a snapshot of nuclear physics research  which has been transformed by  artificial intelligence and machine learning techniques. 
+\end{abstract}
+
+\maketitle
+
+\tableofcontents
+
+
+\subfile{../sections/introduction/introduction}
+\subfile{../sections/theory/theory}
+\subfile{../sections/method/method}
+\subfile{../sections/results/results}
+
+\appendix
+\begin{align}
+  -2\ln \lambda(\mu) &= -2\ln\left(\frac{L_{s+b}(\mu=0,\hat{\hat{\bm{\theta}}})}{L_{s+b}(\mu=1,\hat{\hat{\bm{\theta}}})}\right) \notag \\
+             &= -2\ln\frac{L_{s+b}(\mu,\hat{\hat{\bm{\theta}}})}{L_{s+b}(\mu=1,\hat{\hat{\bm{\theta}}})} \notag \notag \\
+             &= -2\ln L_{s+b}(\mu,\hat{\hat{\bm{\theta}}}) - 2\ln L_{s+b}(\mu=1,\hat{\hat{\bm{\theta}}}) \notag \\              &= -2\ln L_{s+b}(\mu,\hat{\hat{\bm{\theta}}}) - 2\ln L_{s+b}(\mu=1,\hat{\hat{\bm{\theta}}}) \notag \\              &+2\ln L_b(\hat{\hat{\bm{\theta}}}) - 2\ln L_b(\hat{\hat{\bm{\theta}}}) \notag \\
+             &= -2\ln \frac{L_{s+b}(\mu,\hat{\hat{\bm{\theta}}})}{L_b(\hat{\hat{\bm{\theta}}})} - 2\ln \frac{L_{s+b}(\mu=1,\hat{\hat{\bm{\theta}}})}{L_b(\hat{\hat{\bm{\theta}}})} \notag \\
+             &= -2\ln Q(\mu) + 2\ln Q(1) \notag \\
+             &= t(\mu) - t(1),   \label{eq:14}
+\end{align}
+
+\cite{moustakides2019training}
+\bibliography{References} % add  references to this file
+\end{document}

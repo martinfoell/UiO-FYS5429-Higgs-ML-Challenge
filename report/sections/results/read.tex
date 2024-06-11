@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{catchfile}
+\usepackage{etoolbox}
+
+\begin{document}
+
+% Read the file content into \filecontent macro
+\CatchFileDef{\filecontent}{example.txt}{}
+
+% Split the content by lines
+\newcommand{\splitlines}[1]{%
+  \def\do##1{\expandafter\def\csname line##1\endcsname}%
+  \expandafter\docsvlist#1%
+}
+
+% Process the file content
+\splitlines{\filecontent}
+
+% Print a specific line (e.g., line 2)
+\csname line2\endcsname
+
+\end{document}

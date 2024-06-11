@@ -1,0 +1,26 @@
+import os
+import sys
+import time 
+
+import subprocess
+
+file_path = "../scripts/grid-search.py"
+
+number = "8"
+
+names = ["FillMean", "FillZero", "FillPhiRandom", "RemoveJets", "RemovePhi", "Jets0", "Jets1", "Jets2"]
+
+models = ["fillMean", "fillZero", "fillPhiRandom", "removeJets", "removePhi", "jets0", "jets1", "jets2"]
+
+
+for i in range(len(models)):
+    start = time.time()
+    command = f"python {file_path} " + names[i] + number + " " + models[i]
+    subprocess.run(command, shell=True)        
+    end = time.time()
+    print("Finished model ", models[i])
+    print(f"Finished in {end-start} seconds")
+    print("")
+    time.sleep(300)
+
+
