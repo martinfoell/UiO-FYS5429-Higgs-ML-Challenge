@@ -13,4 +13,4 @@ multi-grid-seach.py: runs multiple grids using grid-seach.py
 
 plotting.py: plots the output from a single training
 
-plot-grid.py: plots all output from a grid search
+plot-all.py: plots all output from a grid search
